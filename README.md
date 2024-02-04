@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on HackYourFuture
 - 📫 How to reach me: by mail - alejandrobusiness2022@gmail.com
-- ⚡ Fun fact: i am a magician
+- ⚡ Fun fact: i dance salsa when i am coding
 
 <!---
 AlejandroGispert/AlejandroGispert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

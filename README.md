@@ -8,7 +8,7 @@
 
 <p align="left" >
     <a href="https://www.codewars.com/users/AlejandroCoderHYF">
-       <img src="https://www.codewars.com/users/AlejandroCoderHYF/badges/micro?theme=light" />
+       <img  src="https://www.codewars.com/users/AlejandroCoderHYF/badges/micro?theme=light?top_languages=true" />
     </a>
 </p>
 <!---

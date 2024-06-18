@@ -54,3 +54,6 @@ Here is my webpage <a href="https://sparkly-taffy-695cb1.netlify.app/"> => Click
 AlejandroGispert/AlejandroGispert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alejandrobusiness&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>

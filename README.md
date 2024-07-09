@@ -31,6 +31,7 @@ Here is my webpage <a href="https://sparkly-taffy-695cb1.netlify.app/"> => Click
 </p>
 
 💪 Strengths in:
+-accesibility-
 -Responsive design-
 -Javascript-
 

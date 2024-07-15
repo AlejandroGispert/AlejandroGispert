@@ -2,6 +2,14 @@
 <h3 align="center">A passionate frontend developer from Cuba living in Denmark</h3>
 
 <h3 align="left">Connect with me:</h3>
+<div>
+ <
+  <a href="https://www.linkedin.com/in/alejandro-gispert/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
+  
+   <a href="mailto:alejandrobusiness2022@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
+</div>
 <p align="left">
 </p>
 
@@ -12,13 +20,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrogispert&show_icons=true&locale=en" alt="alejandrogispert" /></p>
  
- 👋 Hi, I’m @AlejandroGispert
- 
-🌱 I’m currently learning React.js and typescript
+🌱 I’m currently learning React.js, node.js and typescript
 
 💞️ I’m on HackYourFuture
-
- 📫 How to reach me: by mail - alejandrobusiness2022@gmail.com
 
 Here is my webpage <a href="https://sparkly-taffy-695cb1.netlify.app/"> => Click Here <= </a>
 

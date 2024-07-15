@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Cuba living in Denmark</h3>
 
 <h3 align="left">Connect with me:</h3>

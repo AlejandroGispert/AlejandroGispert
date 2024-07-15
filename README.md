@@ -3,12 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
- <
+ 
   <a href="https://www.linkedin.com/in/alejandro-gispert/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
+  <img src="https://img.shields.io/badge/Alejandro Gispert-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
   
    <a href="mailto:alejandrobusiness2022@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
+  <img src="https://img.shields.io/badge/-alejandrobusiness2022@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
 </div>
 <p align="left">
 </p>

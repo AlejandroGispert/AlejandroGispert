@@ -1,8 +1,79 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alejandro</h1>
-<h3 align="center">A passionate frontend developer from Cuba living in Denmark</h3>
+# Hi there, I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<h3 align="left">Connect with me:</h3>
-<div>
+## 👨‍💻 About Me
+
+- 🌍 Frontend Developer from Cuba, currently living in Denmark
+- 🌱 Currently learning React.js, Node.js, and TypeScript
+- 💼 Part of the HackYourFuture program
+- 🚀 Passionate about accessibility and responsive design
+- 🌐 Check out my [portfolio website](https://sparkly-taffy-695cb1.netlify.app/)
+
+## 🛠️ Tech Stack
+
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Design
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+## 🚀 Projects
+
+### CodePen Creations
+Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
+
+<p align="center">
+  <a href="https://codepen.io/AlejandroGispert/">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrogispert&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandrogispert&show_icons=true&locale=en" alt="GitHub Stats" height="165">
+</p>
+
+## 💪 Coding Challenges & Achievements
+
+<p align="center">
+  <a href="https://www.codewars.com/users/AlejandroCoderHYF">
+    <img src="https://www.codewars.com/users/AlejandroCoderHYF/badges/large" alt="Codewars Badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/AlejandroHYF">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/SQL-★★★★★-gold?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL 5 Stars Gold Badge">
+</p>
+
+## 🤝 Connect with Me
+
+<div align="center">
  
   <a href="https://www.linkedin.com/in/alejandro-gispert/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Alejandro Gispert-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
@@ -10,55 +81,9 @@
    <a href="mailto:alejandrobusiness2022@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-alejandrobusiness2022@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
 </div>
-<p align="left">
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=alejandrobusiness&label=Profile%20Views&color=0&icon=5&pretty=false" alt="Profile Views">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-
-<p><img align="left" width="355px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrogispert&show_icons=true&locale=en&layout=compact" alt="alejandrogispert" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrogispert&show_icons=true&locale=en" alt="alejandrogispert" /></p>
- 
-🌱 I’m currently learning React.js, node.js and typescript
-
-💞️ I’m on HackYourFuture
-
-Here is my webpage <a href="https://sparkly-taffy-695cb1.netlify.app/">Visit Webpage</a>
-
-
-
-<p align="left" >
-  Codewars Score✨ <a href="https://www.codewars.com/users/AlejandroCoderHYF">
-       <img  src="https://www.codewars.com/users/AlejandroCoderHYF/badges/micro?theme=light?top_languages=true" /> 
-    </a>✨
-</p>
-
-💪 Strengths in:
--accesibility-
--Responsive design-
--Javascript-
-
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<!---
-AlejandroGispert/AlejandroGispert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=alejandrobusiness&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>

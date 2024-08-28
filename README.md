@@ -42,10 +42,10 @@
 
 
 ### Certifications
-[![COBOL Badge](https://img.shields.io/badge/COBOL-PROFICIENT-blue)](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf/public_url)
-[![Front End Development Libraries](https://img.shields.io/badge/FreeCodeCamp-Front_End_Development_Libraries-blue)](https://www.freecodecamp.org/certification/your-username/front-end-development-libraries)
-[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/FreeCodeCamp-JavaScript_Algorithms_and_Data_Structures-yellow)](https://www.freecodecamp.org/certification/your-username/javascript-algorithms-and-data-structures)
-[![Responsive Web Design Certification](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-green)](https://www.freecodecamp.org/certification/your-username/responsive-web-design)
+[![COBOL Badge](https://img.shields.io/badge/COBOL-PROFICIENT-green)](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf/public_url)
+[![Front End Development Libraries](https://img.shields.io/badge/FreeCodeCamp-Front_End_Development_Libraries-blue)](https://www.freecodecamp.org/certification/AlejandroGispert/front-end-development-libraries)
+[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/FreeCodeCamp-JavaScript_Algorithms_and_Data_Structures-yellow)](https://www.freecodecamp.org/certification/AlejandroGispert/javascript-algorithms-and-data-structures-v8)
+[![Responsive Web Design Certification](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-green)](https://www.freecodecamp.org/certification/AlejandroGispert/responsive-web-design)
 
 
 

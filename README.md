@@ -40,6 +40,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
+
+### Certifications
+![COBOL Programming with VSCode](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf/public_url)
+
+
 ## 🚀 Projects
 
 ### CodePen Creations

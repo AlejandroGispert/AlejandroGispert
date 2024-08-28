@@ -42,7 +42,7 @@
 
 
 ### Certifications
-![COBOL Programming with VSCode](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf/public_url)
+![COBOL Programming with VSCode](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf)
 
 
 ## 🚀 Projects

@@ -1,6 +1,11 @@
 # Hi there, I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-# Projects
 
+## Projects highlights
+
+- **Meal Sharing App**: [Todo App](https://github.com/AlejandroGispert/todo-app)
+- **Room Booking App**: [Todo App](https://github.com/AlejandroGispert/todo-app)
+- **Mobile**: [Todo App](https://github.com/AlejandroGispert/todo-app)
+  
 ## 👨‍💻 About Me
 
 - 🌍 Frontend Developer from Cuba, currently living in Denmark

@@ -2,7 +2,7 @@
 
 ## Projects highlights
 - **Currency Catcher**: [Currency Catcher](https://github.com/AlejandroGispert/currencyConverter)
-- **Meal Sharing App**: [HomeCook Meal Sharing App](https://github.com/AlejandroGispert/meal-sharing-final)
+- **Meal Sharing App**: [HomeCook Connection Hub](https://github.com/AlejandroGispert/meal-sharing-final)
 - **Room Booking App**: [Todo App](https://github.com/AlejandroGispert/todo-app)
   
 ## 👨‍💻 About Me

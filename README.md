@@ -1,10 +1,9 @@
 # Hi there, I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## Projects highlights
-
+- **Currency Catcher**: [Currency Catcher](https://github.com/AlejandroGispert/currencyConverter)
 - **Meal Sharing App**: [Todo App](https://github.com/AlejandroGispert/todo-app)
 - **Room Booking App**: [Todo App](https://github.com/AlejandroGispert/todo-app)
-- **Mobile**: [Todo App](https://github.com/AlejandroGispert/todo-app)
   
 ## 👨‍💻 About Me
 

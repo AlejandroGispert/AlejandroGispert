@@ -3,7 +3,7 @@
 ## Projects highlights
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Meal Sharing App**: <a href="https://github.com/AlejandroGispert/meal-sharing-final" target="_blank">HomeCook Connection Hub</a>
-- **Room Booking App**: <a href="https://github.com/AlejandroGispert/booking-casaparticular-backend" target="_blank">backend</a>
+- **Room Booking App**: <a href="https://github.com/AlejandroGispert/booking-casaparticular-backend" target="_blank">Backend</a>
   
 ## 👨‍💻 About Me
 

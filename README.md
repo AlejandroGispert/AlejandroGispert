@@ -54,7 +54,7 @@ Check out my certifications on [Credly](https://www.credly.com/users/alejandro-g
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 
-### Certifications
+### More Certifications
 [![COBOL Badge](https://img.shields.io/badge/COBOL-FUNDATIONS-green)](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf/public_url)
 [![COBOL Badge](https://img.shields.io/badge/COBOL-IBM/Z-red)](https://www.credly.com/badges/687bcd35-f391-44ef-9614-1491ddcff41c)
 [![Front End Development Libraries](https://img.shields.io/badge/FreeCodeCamp-Front_End_Development_Libraries-blue)](https://www.freecodecamp.org/certification/AlejandroGispert/front-end-development-libraries)

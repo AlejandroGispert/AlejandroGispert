@@ -3,7 +3,7 @@
 ## Projects highlights
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Meal Sharing App**: <a href="https://github.com/AlejandroGispert/meal-sharing-final" target="_blank">HomeCook Connection Hub</a>
-- **Room Booking App**: <a href="https://github.com/AlejandroGispert/booking-casaparticular-backend" target="_blank">Backend</a>
+- **Room Booking App**:  <a href="https://github.com/AlejandroGispert/casaparticularconchita-frontend" target="_blank">Frontend</a> <a href="https://github.com/AlejandroGispert/booking-casaparticular-backend" target="_blank">Backend</a>
 
 ## Certifications
 Check out my certifications on [Credly](https://www.credly.com/users/alejandro-gispert.c44fa707).

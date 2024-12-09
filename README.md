@@ -1,7 +1,7 @@
 # Hi there, I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## Projects highlights
-- **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a> , <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
+- **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Meal Sharing App**: <a href="https://github.com/AlejandroGispert/meal-sharing-final" target="_blank">HomeCook Connection Hub</a>

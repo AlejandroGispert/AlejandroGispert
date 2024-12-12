@@ -15,7 +15,7 @@ Check out my certifications on [Credly](https://www.credly.com/users/alejandro-g
 
 - 🌍 Frontend Developer from Cuba, currently living in Denmark
 - 🌱 Currently learning TypeScript, Angular and COBOL
-- 💼 Part of the HackYourFuture program
+- 💼 Graduated from the HackYourFuture program
 - 🚀 Passionate about accessibility and responsive design
 - 🌐 Check out my [portfolio website](https://sparkly-taffy-695cb1.netlify.app/)
 

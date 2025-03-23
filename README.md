@@ -113,6 +113,4 @@ Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alejandrobusiness&label=Profile%20Views&color=0&icon=5&pretty=false" alt="Profile Views">
-</p>
+

@@ -11,6 +11,10 @@ Repository</a>
 ## Certifications
 Check out my certifications on [Credly](https://www.credly.com/users/alejandro-gispert.c44fa707).
 
+[#COBOL](https://www.credly.com/badges/98a28e1b-4825-42a8-b1b8-8011172cb9cf)
+
+
+[#MAINFRAMES Z/OS](https://www.credly.com/badges/687bcd35-f391-44ef-9614-1491ddcff41c)
 
 ## 👨‍💻 About Me
 

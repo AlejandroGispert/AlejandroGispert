@@ -4,8 +4,6 @@
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
-- **Meal Sharing App**: <a href="https://github.com/AlejandroGispert/meal-sharing-final" target="_blank">HomeCook Connection Hub</a>
-- **Room Booking App**:  <a href="https://github.com/AlejandroGispert/casaparticularconchita-frontend" target="_blank">Frontend</a> <a href="https://github.com/AlejandroGispert/booking-casaparticular-backend" target="_blank">Backend</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>
 
 ## Certifications

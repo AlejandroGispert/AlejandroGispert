@@ -4,6 +4,7 @@
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
+- **Case Chronicle app**: <a href="https://github.com/AlejandroGispert/case-chronicle-webapp" target="_blank">Typescript Case Chronicle webapp fullstack</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>
 
 ## Certifications

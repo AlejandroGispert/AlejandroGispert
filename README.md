@@ -10,10 +10,8 @@ Repository</a>
 ## 👨‍💻 About Me
 
 - 🌍 Frontend Developer from Cuba, currently living in Denmark
-- 🌱 Currently improving my TypeScript, AngularJS and COBOL
-- 💼 Graduated from the HackYourFuture program
-- 🚀 Passionate about accessibility and responsive design
-- 🌐 Check out my [portfolio website](https://sparkly-taffy-695cb1.netlify.app/)
+- 🌱 Currently working in the case chronicle app
+- 🚀 Passionate about accessibility 
 
 ## 🛠️ Tech Stack
 ### Foundational Technologies

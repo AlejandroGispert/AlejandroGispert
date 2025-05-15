@@ -11,7 +11,8 @@ Repository</a>
 
 - 🌍 Frontend Developer from Cuba, currently living in Denmark
 - 🌱 Currently working in the case chronicle app
-- 🚀 Passionate about accessibility 
+- 🚀 Passionate about accessibility
+- 🛠️ Looking for open-source projects to contribute to
 
 ## 🛠️ Tech Stack
 ### Foundational Technologies

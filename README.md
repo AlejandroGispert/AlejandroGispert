@@ -11,7 +11,7 @@ Repository</a>
 ## 👨‍💻 About Me
 
 - 🌍 Frontend Developer from Cuba, currently living in Denmark
-- 🌱 Currently working in the case chronicle app
+- 🌱 Currently working in the case chronicle app and the cuban music timeline
 - 🚀 Passionate about accessibility
 - 🛠️ Looking for open-source projects to contribute to
 

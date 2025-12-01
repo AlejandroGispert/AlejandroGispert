@@ -1,6 +1,8 @@
 # Hi there, I'm Alejandro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## Projects highlights
+
+- **AG sound - Band Booking WebApp**: <a href="https://ag-sound.netlify.app" target="_blank">Typescript Band Booking App fullstack</a>
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
@@ -8,7 +10,7 @@ Repository</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>
 - **Cuban Music Timeline**: <a href="https://cuban-music-timeline.netlify.app/" target="_blank">Typescript Cuban Music Timeline fullstack</a>, <a href="https://github.com/AlejandroGispert/cuban-music-timeline" target="_blank"> 
 Repository</a>
-- **Band Booking App**: <a href="https://ag-sound.netlify.app" target="_blank">Typescript Band Booking App fullstack</a>
+
 
 
 ## 👨‍💻 About Me

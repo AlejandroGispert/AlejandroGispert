@@ -2,6 +2,7 @@
 
 ## Projects highlights
 
+- **Vandall.com**: <a href="Vandall.com" target="_blank">Typescript Band Booking App fullstack</a>
 - **AG sound - Band Booking WebApp**: <a href="https://ag-sound.netlify.app" target="_blank">Typescript Band Booking App fullstack</a>
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>

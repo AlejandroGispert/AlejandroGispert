@@ -2,10 +2,14 @@
 
 ## Projects highlights
 
+Projects with companies:
 - **Vandall.com**: <a href="https://vandall.com/" target="_blank">Vandall Webpage</a>
+- **Donna Vino**: <a href="https://shop.donnavino.dk/" target="_blank">Donna Vino Webpage</a>
 - **AG sound - Band Booking WebApp**: <a href="https://ag-sound.netlify.app" target="_blank">Typescript Band Booking App fullstack</a>
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
+
+Individual Projects:
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Case Chronicle app**: <a href="https://github.com/AlejandroGispert/case-chronicle-webapp" target="_blank">Typescript Case Chronicle webapp fullstack</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>

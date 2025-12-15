@@ -16,7 +16,12 @@ Individual Projects:
 - **Cuban Music Timeline**: <a href="https://cuban-music-timeline.netlify.app/" target="_blank">Typescript Cuban Music Timeline fullstack</a>, <a href="https://github.com/AlejandroGispert/cuban-music-timeline" target="_blank"> 
 Repository</a>
 
-
+Other Projects:
+👉 https://www.thelatintouchband.com/
+👉 https://stdoutpage.netlify.app/ (Sample page)
+👉 https://thereactwizard.netlify.app/ (Sample page)
+👉 http://alejandrogispert.com 
+👉 https://coder-webpage.netlify.app/
 
 ## 👨‍💻 About Me
 

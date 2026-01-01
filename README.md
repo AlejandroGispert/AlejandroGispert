@@ -10,6 +10,8 @@ Projects with companies:
 Repository</a>
 
 Individual Projects:
+
+- **Mac Remote Controller Desktop and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Case Chronicle app**: <a href="https://github.com/AlejandroGispert/case-chronicle-webapp" target="_blank">Typescript Case Chronicle webapp fullstack</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>

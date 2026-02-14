@@ -3,8 +3,8 @@
 ## Projects highlights
 
 Projects (Company - App - Link):
-- **AG SOUND - Case Chronicle app**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicle webapp fullstack</a>
-- **AG SOUND - Mac Remote Controller Desktop and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
+- **AG SOUND - Case Chronicles app**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicles webapp fullstack</a>
+- **AG SOUND - Mac Remote Controller Desktop for iOS and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
 - **AG SOUND - Band Booking WebApp**: <a href="https://ag-sound.com" target="_blank">Typescript Band Booking App fullstack</a>
 
 - **Vandall - Vandall.com Finish Musician Platform**: <a href="https://vandall.com/" target="_blank">Vandall Webpage</a>

@@ -15,7 +15,7 @@ Repository</a>
 
 Other Projects:
 
-- **Cuban Music Timeline**: <a href="https://cuban-music-timeline.netlify.app/" target="_blank">Typescript Cuban Music Timeline fullstack</a>, <a href="https://github.com/AlejandroGispert/cuban-music-timeline" target="_blank"> 
+- **Cuban Music Timeline**: <a href="https://cubanmusictimeline.netlify.app/" target="_blank">Typescript Cuban Music Timeline fullstack</a>, <a href="https://github.com/AlejandroGispert/cuban-music-timeline" target="_blank"> 
 Repository</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>

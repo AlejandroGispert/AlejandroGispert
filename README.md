@@ -21,8 +21,6 @@ Repository</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>
 
 
-Other Projects:
-👉 https://www.thelatintouchband.com/
 👉 https://stdoutpage.netlify.app/ (Sample page)
 👉 https://thereactwizard.netlify.app/ (Sample page)
 👉 http://alejandrogispert.com 

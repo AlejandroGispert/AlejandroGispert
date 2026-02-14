@@ -2,18 +2,20 @@
 
 ## Projects highlights
 
-Projects with companies:
-- **Vandall.com**: <a href="https://vandall.com/" target="_blank">Vandall Webpage</a>
-- **Donna Vino**: <a href="https://shop.donnavino.dk/" target="_blank">Donna Vino Webpage</a>
-- **AG sound - Band Booking WebApp**: <a href="https://ag-sound.netlify.app" target="_blank">Typescript Band Booking App fullstack</a>
+Projects:
+- **AG SOUND - Case Chronicle app**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicle webapp fullstack</a>
+- **AG SOUND - Mac Remote Controller Desktop and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
+- **AG SOUND - Band Booking WebApp**: <a href="https://ag-sound.com" target="_blank">Typescript Band Booking App fullstack</a>
+
+- **Vandall - Vandall.com Finish Musician Platform**: <a href="https://vandall.com/" target="_blank">Vandall Webpage</a>
+- **Donna Vino - Donna Vino eCommerce, Wines**: <a href="https://shop.donnavino.dk/" target="_blank">Donna Vino Webpage</a>
+
 - **WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 
-Individual Projects:
+Other Projects:
 
-- **Mac Remote Controller Desktop and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
 - **Currency Catcher**: <a href="https://github.com/AlejandroGispert/currencyConverter" target="_blank">Currency Catcher</a>
-- **Case Chronicle app**: <a href="https://github.com/AlejandroGispert/case-chronicle-webapp" target="_blank">Typescript Case Chronicle webapp fullstack</a>
 - **Task Manager**: <a href="https://github.com/AlejandroGispert/TypeScript-ex" target="_blank">Typescript Task Manager fullstack</a>
 - **Cuban Music Timeline**: <a href="https://cuban-music-timeline.netlify.app/" target="_blank">Typescript Cuban Music Timeline fullstack</a>, <a href="https://github.com/AlejandroGispert/cuban-music-timeline" target="_blank"> 
 Repository</a>

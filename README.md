@@ -3,7 +3,7 @@
 ## Projects highlights
 
 Projects (Company - App - Link):
-- **AG SOUND - Case Chronicles app**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicles webapp fullstack</a>
+- **AG SOUND - Case Chronicles webapp**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicles fullstack</a>
 - **AG SOUND - Mac Remote Controller Desktop for iOS and Android App**: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
 - **AG SOUND - Band Booking WebApp**: <a href="https://ag-sound.com" target="_blank">Typescript Band Booking App fullstack</a>
 

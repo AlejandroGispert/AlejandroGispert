@@ -2,16 +2,16 @@
 
 ## Projects highlights
 
-Projects (Company - App - Link):
-- **AG SOUND - Case Chronicles webapp - Vite+Rust**: <a href="https://demo.casechronicles.dk" target="_blank">Typescript Case Chronicles fullstack</a>
+Projects (Company - App - Stack- Link):
+- **AG SOUND - Case Chronicles webapp - Vite+Rust**: <a href="https://demo.casechronicles.dk" target="_blank">Visit Webpage</a>
 - **AG SOUND - Mac Remote Controller Desktop for iOS and Android App* - Swift,Kotlin,Svelte*: <a href="https://macremotecontrollerwebpage.netlify.app/" target="_blank">Visit Webpage</a>
-- **AG SOUND - Band Booking WebApp**: <a href="https://ag-sound.netlify.app/" target="_blank">Typescript Band Booking App fullstack</a>
-- **AG SOUND - Company Webpage - Tanstack Start**: <a href="https://ag-sound.com" target="_blank">Typescript Band Booking App fullstack</a>
+- **AG SOUND - Band Booking WebApp - Typescript+React+Node**: <a href="https://ag-sound.netlify.app/" target="_blank">Visit Webpage</a>
+- **AG SOUND - Company Webpage - Tanstack Start**: <a href="https://ag-sound.com" target="_blank">Visit Webpage</a>
 
-- **Vandall - Vandall.com Finish Musician Platform**: <a href="https://vandall.com/" target="_blank">Vandall Webpage</a>
-- **Donna Vino - Donna Vino eCommerce, Wines**: <a href="https://shop.donnavino.dk/" target="_blank">Donna Vino Webpage</a>
+- **Vandall - Vandall.com Finish Musician Platform**: <a href="https://vandall.com/" target="_blank">Visit Webpage</a>
+- **Donna Vino - Donna Vino eCommerce - React+Node**: <a href="https://shop.donnavino.dk/" target="_blank">Visit Webpage</a>
 
-- **HackYourFuture - WEflance**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
+- **HackYourFuture - WEflance - React+Websockets+Sequelize**: <a href="https://w-flance.vercel.app/" target="_blank" > Project Management web-app for Freelance Webdevelopers </a>, <a href="https://github.com/AlejandroGispert/WEflance" target="_blank"> 
 Repository</a>
 
 Other Projects:

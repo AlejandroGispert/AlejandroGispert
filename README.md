@@ -23,8 +23,11 @@ Repository</a>
 
 
 👉 https://stdoutpage.netlify.app/ (Sample page)
+
 👉 https://thereactwizard.netlify.app/ (Sample page)
+
 👉 http://alejandrogispert.com 
+
 👉 https://coder-webpage.netlify.app/
 
 ## 👨‍💻 About Me
@@ -94,8 +97,10 @@ Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrogispert&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrogispert&show_icons=true&locale=en" alt="GitHub Stats" height="165">
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alejandrogispert&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=alejandrogispert)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alejandrogispert&layout=compact)
 </p>
 
 ## 💪 Coding Challenges & Achievements

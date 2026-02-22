@@ -120,7 +120,7 @@ Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
 <br>
 
 
-<a href="https://u8views.com/github/AlejandroGispert"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+[![Alejandro Gispert profile views](https://u8views.com/api/v1/github/profiles/158798324/views/day-week-month-total-count.svg)](https://u8views.com/github/AlejandroGispert)
 </div>
 
 </div>

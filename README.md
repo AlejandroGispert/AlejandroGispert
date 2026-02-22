@@ -94,14 +94,7 @@ Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
   </a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alejandrogispert&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=alejandrogispert)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alejandrogispert&layout=compact)
-</p>
 
 ## 💪 Coding Challenges & Achievements
 
@@ -120,7 +113,16 @@ Check out my CodePen projects [here](https://codepen.io/AlejandroGispert/)!
 </div>
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlejandroGispert&theme=matrix&title=Repositories,Commits,Issues,Reviews,PullRequest,Followers,MultiLanguage" alt="Alejandro Gispert" /></a>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AlejandroGispert&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+
+<br>
+
+
+<a href="https://u8views.com/github/AlejandroGispert"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+</div>
+
 </div>
 <br>
 <br>

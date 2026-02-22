@@ -1,59 +1,47 @@
-# Hi, I'm Alejandro Gispert
+# Alejandro Gispert
+Frontend Engineer • React • TypeScript • Fullstack Systems • Accessibility-Focused
 
-### Frontend Engineer  
-React • TypeScript • Fullstack Systems • Accessibility-Focused
-
-Frontend engineer building production-grade web and mobile applications used by real users.
-
-I specialize in React and TypeScript ecosystems with fullstack experience designing, developing, and deploying scalable applications. My work includes booking systems, eCommerce platforms, cross-platform mobile tools, and structured web applications for business workflows.
-
-I focus on clean architecture, accessibility, performance optimization, and long-term maintainability.
+Frontend engineer delivering production-grade web and mobile applications.  
+Experienced in React and TypeScript, with fullstack expertise in booking systems, eCommerce platforms, cross-platform tools, and structured business applications.  
+Focus on clean architecture, accessibility, and high-performance solutions.
 
 ---
 
 ## Professional Work
 
 ### AG SOUND — Case Chronicles  
-Production web application supporting structured case management workflows.
+Production web application for structured case management workflows.  
+- Built scalable frontend architecture and integrated backend services  
+- Optimized performance for production deployment  
 
-- Contributed to frontend architecture and system structure  
-- Integrated backend services  
-- Focused on performance and scalable implementation  
-
-🔗 https://demo.casechronicles.dk
+🔗 [Live](https://demo.casechronicles.dk)
 
 ---
 
 ### AG SOUND — Mac Remote Controller  
-Cross-platform remote system (macOS + iOS + Android).
-
-- Worked on mobile UI implementation (Swift & Kotlin)  
-- Contributed to communication flow between devices  
+Cross-platform remote system (macOS + iOS + Android).  
+- Developed mobile UI and communication flows  
 - Supported production deployment  
 
-🔗 https://macremotecontrollerwebpage.netlify.app/
+🔗 [Live](https://macremotecontrollerwebpage.netlify.app/)
 
 ---
 
 ### AG SOUND — Band Booking Platform  
-Fullstack booking platform built with React, TypeScript, and Node.js.
+Fullstack booking platform built with React, TypeScript, and Node.js.  
+- Designed and implemented booking workflows, authentication, and admin dashboards  
+- Managed deployment pipeline  
 
-- Designed and implemented booking workflows  
-- Built authentication and admin features  
-- Contributed to deployment and production readiness  
-
-🔗 https://ag-sound.netlify.app/
+🔗 [Live](https://ag-sound.netlify.app/)
 
 ---
 
 ### Donna Vino — eCommerce Platform  
-Production eCommerce system built with React and Node.js.
+Production eCommerce system built with React and Node.js.  
+- Developed features and optimized performance  
+- Maintained and improved production application  
 
-- Feature development and improvements  
-- Performance optimization  
-- Ongoing maintenance and enhancements  
-
-🔗 https://shop.donnavino.dk/
+🔗 [Live](https://shop.donnavino.dk/)
 
 ---
 
@@ -61,36 +49,23 @@ Production eCommerce system built with React and Node.js.
 
 ### WEflance — Real-Time Project Management  
 React + WebSockets + Sequelize  
-
-Live: https://w-flance.vercel.app/  
-Repository: https://github.com/AlejandroGispert/WEflance
-
----
+- Live: [w-flance.vercel.app](https://w-flance.vercel.app/)  
+- Repo: [GitHub](https://github.com/AlejandroGispert/WEflance)
 
 ### Cuban Music Timeline  
-Fullstack TypeScript platform visualizing structured music data.
-
-Live: https://cubanmusictimeline.netlify.app/  
-Repository: https://github.com/AlejandroGispert/cuban-music-timeline
+Fullstack TypeScript platform visualizing structured music data.  
+- Live: [cubanmusictimeline.netlify.app](https://cubanmusictimeline.netlify.app/)  
+- Repo: [GitHub](https://github.com/AlejandroGispert/cuban-music-timeline)
 
 ---
 
 ## Technical Stack
 
-**Frontend**  
-React, TypeScript, Angular, Next.js, Svelte
-
-**Backend**  
-Node.js, Express, REST APIs
-
-**Databases**  
-PostgreSQL, MySQL, MongoDB
-
-**Mobile**  
-Swift (iOS), Kotlin (Android), Flutter
-
-**Tools & DevOps**  
-Docker, Linux, Git, CI/CD workflows
+**Frontend:** React, TypeScript, Angular, Next.js, Svelte  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Mobile:** Swift (iOS), Kotlin (Android), Flutter  
+**DevOps & Tools:** Docker, Linux, Git, CI/CD
 
 ---
 
@@ -111,5 +86,5 @@ Public GitHub projects represent selected examples of my work.
 
 ---
 
-📍 Based in Denmark  
-Open to frontend and fullstack engineering opportunities.
+📍 Based in Denmark
+

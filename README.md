@@ -38,7 +38,7 @@ Fullstack booking platform built with React, TypeScript, and Node.js.
 
 ### Vandall — Musician Platform  
 Fullstack platform for musician content management.  
-- Developed web application features with Next.js  
+- Developed dashboard features with Next.js  
 - Implemented user workflows and performance optimizations  
 
 🔗 [Live](https://vandall.com/)

@@ -14,7 +14,7 @@ Production web application for structured case management workflows.
 - Built scalable frontend architecture and integrated backend services  
 - Optimized performance for production deployment  
 
-🔗 [Live](https://demo.casechronicles.dk)
+🔗 [Live](https://casechronicles.dk)
 
 ---
 
@@ -23,7 +23,7 @@ Cross-platform remote system (macOS + iOS + Android).
 - Developed mobile UI and communication flows  
 - Supported production deployment  
 
-🔗 [Live](https://macremotecontrollerwebpage.netlify.app/)
+🔗 [Live](https://macremotecontroller.com/)
 
 ---
 
@@ -32,7 +32,7 @@ Fullstack booking platform built with React, TypeScript, and Node.js.
 - Designed and implemented booking workflows, authentication, and admin dashboards  
 - Managed deployment pipeline  
 
-🔗 [Live](https://ag-sound.netlify.app/)
+🔗 [Live](https://ag-sound.com/)
 
 ---
 

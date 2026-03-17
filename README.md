@@ -56,6 +56,11 @@ Production eCommerce system built with React and Node.js.
 
 ## Selected Public Projects
 
+### COBOL NEXUS — A COBOL visualizer on the web
+Vue + .NET + COBOL  
+- Live: [COBOL NEXUS](https://cobolnexus.netlify.app/)
+  
+cobolnexus.netlify.app/
 ### WEflance — Real-Time Project Management  
 React + WebSockets + Sequelize  
 - Live: [w-flance.vercel.app](https://w-flance.vercel.app/)  
